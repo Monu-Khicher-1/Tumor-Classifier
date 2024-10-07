@@ -1,2 +1,3 @@
 # Tumor-Classifier
-Finetuning clip for tumor classifcation with different techniques: VPT, full fine tunning and linear head training.
+Finetuning clip for tumor classification with different techniques: VPT, full fine tuning and linear head training.
+Assignment 1 (COL828) by Prof. Chetan Arora.
